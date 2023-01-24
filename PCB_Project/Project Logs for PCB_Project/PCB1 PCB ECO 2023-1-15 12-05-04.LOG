@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=JP?-1
+Removed Pin From Net: NetName=GND Pin=JP?-5
+Added Pin To Net: NetName=GND Pin=JP?-1
+Added Pin To Net: NetName=VCC Pin=JP?-5
